@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    baseUrl: "www.sillymillie.com",
+    baseUrl: "sillymillie.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
