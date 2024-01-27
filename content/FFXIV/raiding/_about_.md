@@ -1,8 +1,8 @@
 ---
-title: _about my raid notes_
+title: _about my raid notes
 ---
 
-as mentioned, i play FFXIV. it's one of my favorite games of all time. my character is silly millie 🌸 faerie, and i have a decently extensive amount of experience when it comes to raiding. there can be a lot that goes into it, so i've been trying to come up with a way to archive the stuff i come across—useful diagrams and some notes i've taken—in preparation for dawntrail, the next expansion.
+as mentioned, i play FFXIV. it's one of my favorite games of all time. my character's name is silly millie 🌸 faerie, and i have a decently extensive amount of experience when it comes to raiding. there can be a lot that goes into it, so i've been trying to come up with a way to archive the stuff i come across—useful diagrams and some notes i've taken—in preparation for dawntrail, the next expansion.
 
 my notes aren't meant to be very in-detail about what each mechanic is like. they're more like things to keep in mind once you *do* know the mechanic; they're tiny intricacies that will help save the occasional pull or give you a more thorough understanding once you've learned the basics.
 
