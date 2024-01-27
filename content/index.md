@@ -10,3 +10,5 @@ i'm millie! i enjoy:
 - running dungeons and dragons
 
 lately, i've been learning more about the IT industry, and i feel like it would be helpful for me to have a simple web page as a project, of sorts. i'll add more to it when i have more to say.
+
+right now, it seems like the site is only viewable on desktop. whoops. i'll get that sorted out at some point, probably.
