@@ -30,7 +30,7 @@ npx quartz sync
 ```
 
 # yt-dlp
-download a playlist at 1080p and number the files sequentially:
+download a playlist at 1080p and number the files sequentially (do not include the <> surrounding brackets):
 ```
-yt-dlp <video link> -o "%(playlist_index)s-%(title)s.%(ext)s" -S "res:1080"
+yt-dlp <playlist link> -o "%(playlist_index)s-%(title)s.%(ext)s" -S "res:1080"
 ```
