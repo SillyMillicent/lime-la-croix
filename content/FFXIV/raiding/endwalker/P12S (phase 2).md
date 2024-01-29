@@ -9,7 +9,7 @@ title: P12S (phase 2)
 - MT can press rampart for the many auto attacks during UAV 1. it will be back up for the many auto attacks during caloric 1.
 - MT also takes lots of damage during pangenesis. make sure to keep them alive!
 - you are free to move and pre-position in classical 2 the moment the purple tethers attach to you. take advantage of this.
-- if you have to use healer LB3 to save the pull during UAV 2, make sure to confirm whether or not someone ran off the edge before doing it. if so, they will not be raised since their bodies are gone.
+- if you have to use healer LB3 to save the pull during UAV 2, make sure to confirm whether or not someone ran off the edge before doing it. if someone ran off and you use LB3, they will not be raised since their bodies are gone.
 ---
 # a note on PLD cover strat for caloric 1
 
@@ -27,3 +27,6 @@ in my opinion, just because you can do something different doesn’t mean you sh
 i am a Certified Hater of ANBS. i think it’s an objectively worse strat than eyes. i made this video showcasing how to use your eyeballs to tell which person is closer:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vzo7x1kFZFk?si=Zzp9qnHIhMyz4VIT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# UAV 2
+![[arena-blank.png]]
