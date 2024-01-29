@@ -23,3 +23,10 @@ i picked up the hobby of journaling after reading [an incredibly insightful comm
 the price model is unusual. there's no free model, and no central server or anything for diarium to check premium status. it's instead spread out and sold across multiple app stores. the upside to this is that there's no subscription fee, unlike a lot of other great journaling apps. the major downside, however, is that you have to buy it on every platform you want separately. i managed to get lucky and snag an android and windows copy over the holidays for about $10 total. i've been very happy with my purchase!
 
 i struggled to write every day in google docs because of how much of a chore it felt like to get the formatting set up the way i wanted. with this, i just go in and write, then i'm done. you can add photos to your journal entries, and if you do, it displays them as thumbnails on the calendar view. this has indirectly inspired me to take more pictures, and i've found that i've been able to take a photo of something i've seen or something one of my friends has said that i want to remember. this was so worth the money for me.
+
+# [zero](https://play.google.com/store/apps/details?id=com.zerofasting.zero&hl=en_US&gl=US)
+- **what it's for:** tracking and logging fasts
+- **platforms:** ios & android
+- **price:** free, paid options
+
+this one is rather simple. i really like fasting—i often switch between 16:8 and 20:4—in order to keep myself from midnight snacking. i discovered that while i'm not a visual learner, i do highly benefit from being able to see things laid out before my eyes. diarium's calendar view is a great example of this. zero provides a nice timer for me to look at, and it activates the part of my brain that likes keeping streaks going. i have no idea what the paid options even do. there's a whole lot more to the app, though i haven't even looked at any of it. i just like my timers.
