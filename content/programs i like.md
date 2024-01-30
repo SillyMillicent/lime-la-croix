@@ -15,7 +15,7 @@ the phrase that sums up obsidian for me is "you get out of it what you put in." 
 
 # [diarium](https://diariumapp.com/)
 - **what it's for:** keeping a journal/diary
-- **platforms:** basically everything
+- **platforms:** basically everything (except linux 😔)
 - **price:** it depends
 
 i picked up the hobby of journaling after reading [an incredibly insightful comment on reddit](https://www.reddit.com/r/AskReddit/comments/i7rwsh/comment/g142sr2/) a few years ago. i tried keeping my stuff in a big google docs file. it didn't work out for me since google docs was *very clearly* not designed for this one specific purpose. enter: diarium. it looked really cool and exactly what i was looking for, although the pricing was something that didn't leave me feeling enthusiastic.
