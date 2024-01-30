@@ -35,4 +35,4 @@ there's a small tip i have regarding spreading. if you spread directly across li
 
 this is a subtle change, yet it has increased my personal consistency with avoiding damage downs.
 
-the only other tip i have is for melees and tanks: you can move away from your ranged people much sooner than you might think. don't hesitate! get this done and you'll clear in no time.
+the only other tip i have is for melees and tanks: you can move away from your ranged people much sooner than you might think. it might be worth it to look up a clear vod on youtube to see the timing for yourself. don't hesitate! get this done and you'll clear in no time.
