@@ -16,7 +16,7 @@ people who have the spread debuff can die without consequence. the same cannot b
 if a non-spread does die, it is possible for a spread with the correct debuff to soak their tower and to keep the pull going. it requires incredibly fast awareness and adjusting, and will probably cause a wipe anyway if someone gets clipped by the spread you’re taking onto the tower. it’s worth a try if you’re progging para 3.
 
 example of a spread dying and the pull continuing as normal:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G-_Agw5M85o?si=Qa1EHQ9OAEVOjhxZ" title="YouTube video player" align="center" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/G-_Agw5M85o?si=Qa1EHQ9OAEVOjhxZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 # limit cut
 **it is imperative that you stay as close to the wall as possible when baiting dashes.** the damage scales with proximity, and if you’re off by a few pixels, you will likely die unless you’re a tank.

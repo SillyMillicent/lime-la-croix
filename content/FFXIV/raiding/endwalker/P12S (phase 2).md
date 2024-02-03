@@ -24,7 +24,7 @@ in my opinion, just because you can do something different doesn’t mean you sh
 # how to flex using eyes strat
 i am a Certified Hater of ANBS. i think it’s an objectively worse strat than eyes. i made this video showcasing how to use your eyeballs to tell which person is closer:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vzo7x1kFZFk?si=Zzp9qnHIhMyz4VIT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Vzo7x1kFZFk?si=Zzp9qnHIhMyz4VIT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 # UAV 2
 the most important thing about UAV 2 is to **wait until the chain *debuffs* appear.** not the visual chains above your characters, the actual debuffs.
