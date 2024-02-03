@@ -11,7 +11,11 @@ this is a small collection of applications i've been using. most of these involv
 
 this program has really gotten me to get more organized in one aspect of my life: taking notes for d&d. for that, i find this program to be amazing. it has a really steep learning curve, which is really weird to think about for a note taking program. the learning curve stems from the fact that learning markdown is important, and there is a lot of functionality that's enabled by plugins made by the community.
 
-the phrase that sums up obsidian for me is "you get out of it what you put in." if you want something to take notes in and you want to leave it that, it's too barebones. if you put in the effort to learn it, you can do so much more with it that you can't with other similar programs. it's a godsend for taking great d&d notes, and [josh plunkett's](https://www.youtube.com/@JoshPlunkett) videos on youtube gave me about 85% of the foundational knowledge i needed to know before really sinking my teeth into it.
+the phrase that sums up obsidian for me is "you get out of it what you put in." if you want something to take notes in and you want to leave it that, it's too barebones. if you put in the effort to learn it, you can do so much more with it that you can't with other similar programs. it's a godsend for taking great d&d notes, and there are two sources i want to plug that gave me everything i needed to get started. 
+
+if you're a DM, [josh plunkett's](https://www.youtube.com/@JoshPlunkett) videos on youtube are fantastic for showing you how you can use obsidian's extensive plugins to make some magic happen behind the screen. i've been using less of the plugins since i use foundry and i don't over-prepare for my games anymore.
+
+if you're a player, [this great video by nicole van der hoeven](https://www.youtube.com/watch?v=003Jvume-cA) showcases an amazing setup. personally, i paid for her patreon so i could download her vault myself. my one criticism with her setup is that it's extremely disorganized.
 
 # [diarium](https://diariumapp.com/)
 - **what it's for:** keeping a journal/diary
