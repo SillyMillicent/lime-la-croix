@@ -2,7 +2,7 @@
 title: programs i like
 ---
 
-this is a small collections of applications i've been using. most of these involve health or lifestyle.
+this is a small collection of applications i've been using. most of these involve health or lifestyle.
 
 # [obsidian](https://obsidian.md/)
 - **what it's for:** taking notes
@@ -22,7 +22,7 @@ i picked up the hobby of journaling after reading [an incredibly insightful comm
 
 the price model is unusual. there's no free model, and no central server or anything for diarium to check premium status. it's instead spread out and sold across multiple app stores. the upside to this is that there's no subscription fee, unlike a lot of other great journaling apps. the major downside, however, is that you have to buy it on every platform you want separately. i managed to get lucky and snag an android and windows copy over the holidays for about $10 total. i've been very happy with my purchase!
 
-i struggled to write every day in google docs because of how much of a chore it felt like to get the formatting set up the way i wanted. with this, i just go in and write, then i'm done. you can add photos to your journal entries, and if you do, it displays them as thumbnails on the calendar view. this has indirectly inspired me to take more pictures, and i've found that i've been able to take a photo of something i've seen or something one of my friends has said that i want to remember. this was so worth the money for me.
+i struggled to write every day in google docs because of how much of a chore it felt like to get the formatting set up the way i wanted. with this, i just go in and write, then i'm done. you can add photos to your journal entries, and if you do, it displays them as thumbnails in the calendar view. this has indirectly inspired me to take more pictures, and i've found that i've been able to take a photo of something i've seen or something one of my friends has said that i want to remember. this was so worth the money for me.
 
 # [zero](https://play.google.com/store/apps/details?id=com.zerofasting.zero&hl=en_US&gl=US)
 - **what it's for:** tracking and logging fasts
