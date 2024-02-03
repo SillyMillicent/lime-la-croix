@@ -35,10 +35,11 @@ export interface GlobalConfiguration {
    *   Quartz will avoid using this as much as possible and use relative URLs most of the time
    */
   baseUrl?: string
+  contentDir?: string
   theme: Theme
   /**
-   * The locale to use for date formatting. Default to "en-US"
    * Allow to translate the date in the language of your choice.
+   * Also used for UI translation (default: en-US)
    * Need to be formated following the IETF language tag format (https://en.wikipedia.org/wiki/IETF_language_tag)
    */
   locale?: string

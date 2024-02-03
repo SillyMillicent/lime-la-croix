@@ -5,8 +5,9 @@ import style from "../styles/listPage.scss"
 import { PageList } from "../PageList"
 import { _stripSlashes, simplifySlug } from "../../util/path"
 import { Root } from "hast"
-import { pluralize } from "../../util/lang"
+import { pluralize, classNames } from "../../util/lang"
 import { htmlToJsx } from "../../util/jsx"
+import { i18n } from "../../i18n/i18next"
 
 interface FolderContentOptions {
   /**
@@ -23,7 +24,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
   const options: FolderContentOptions = { ...defaultOptions, ...opts }
 
   function FolderContent(props: QuartzComponentProps) {
-    const { tree, fileData, allFiles } = props
+    const { tree, fileData, allFiles, cfg } = props
     const folderSlug = _stripSlashes(simplifySlug(fileData.slug!))
     const allPagesInFolder = allFiles.filter((file) => {
       const fileSlug = _stripSlashes(simplifySlug(file.slug!))
@@ -34,7 +35,6 @@ export default ((opts?: Partial<FolderContentOptions>) => {
       return prefixed && isDirectChild
     })
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
-    const classes = ["popover-hint", ...cssClasses].join(" ")
     const listProps = {
       ...props,
       allFiles: allPagesInFolder,
@@ -46,13 +46,16 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         : htmlToJsx(fileData.filePath!, tree)
 
     return (
-      <div class={classes}>
+      <div class={classNames(undefined, "popover-hint", ...cssClasses)}>
         <article>
           <p>{content}</p>
         </article>
         <div class="page-listing">
           {options.showFolderCount && (
-            <p>{pluralize(allPagesInFolder.length, "item")} under this folder.</p>
+            <p>
+              {pluralize(allPagesInFolder.length, i18n(cfg.locale, "common.item"))}{" "}
+              {i18n(cfg.locale, "folderContent.underThisFolder")}.
+            </p>
           )}
           <div>
             <PageList {...listProps} />

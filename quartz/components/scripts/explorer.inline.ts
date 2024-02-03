@@ -43,15 +43,9 @@ function toggleFolder(evt: MouseEvent) {
   childFolderContainer.classList.toggle("open")
   const isCollapsed = childFolderContainer.classList.contains("open")
   setFolderState(childFolderContainer, !isCollapsed)
-
-  // Save folder state to localStorage
-  const clickFolderPath = currentFolderParent.dataset.folderpath as string
-
-  // Remove leading "/"
-  const fullFolderPath = clickFolderPath.substring(1)
-  toggleCollapsedByPath(explorerState, fullFolderPath)
-
-  const stringifiedFileTree = JSON.stringify(explorerState)
+  const fullFolderPath = currentFolderParent.dataset.folderpath as string
+  toggleCollapsedByPath(currentExplorerState, fullFolderPath)
+  const stringifiedFileTree = JSON.stringify(currentExplorerState)
   localStorage.setItem("fileTree", stringifiedFileTree)
 }
 
@@ -79,26 +73,18 @@ function setupExplorer() {
     window.addCleanup(() => item.removeEventListener("click", toggleFolder))
   }
 
-  if (storageTree && useSavedFolderState) {
-    // Get state from localStorage and set folder state
-    explorerState = JSON.parse(storageTree)
-    explorerState.map((folderUl) => {
-      // grab <li> element for matching folder path
-      const folderLi = document.querySelector(
-        `[data-folderpath='/${folderUl.path}']`,
-      ) as HTMLElement
-
-      // Get corresponding content <ul> tag and set state
-      if (folderLi) {
-        const folderUL = folderLi.parentElement?.nextElementSibling
-        if (folderUL) {
-          setFolderState(folderUL as HTMLElement, folderUl.collapsed)
-        }
-      }
-    })
-  } else if (explorer?.dataset.tree) {
-    // If tree is not in localStorage or config is disabled, use tree passed from Explorer as dataset
-    explorerState = JSON.parse(explorer.dataset.tree)
+  // Get folder state from local storage
+  const storageTree = localStorage.getItem("fileTree")
+  const useSavedFolderState = explorer?.dataset.savestate === "true"
+  const oldExplorerState: FolderState[] =
+    storageTree && useSavedFolderState ? JSON.parse(storageTree) : []
+  const oldIndex = new Map(oldExplorerState.map((entry) => [entry.path, entry.collapsed]))
+  const newExplorerState: FolderState[] = explorer.dataset.tree
+    ? JSON.parse(explorer.dataset.tree)
+    : []
+  currentExplorerState = []
+  for (const { path, collapsed } of newExplorerState) {
+    currentExplorerState.push({ path, collapsed: oldIndex.get(path) ?? collapsed })
   }
 
   currentExplorerState.map((folderState) => {

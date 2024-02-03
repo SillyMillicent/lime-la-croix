@@ -10,14 +10,14 @@ title: P9S
 ---
 
 # limit cut 1
-there needs to be healing and mitigation throughout this mechanic, since everyone gets blasted. it's most important that the person who gets the final defamation gets a little bit of help: a regen, a shield like adloquium or TBN, etc. they have to be further away from everyone because of the defamation, and they will miss AOE heals as a result.
-
 the final defamation has to receive healing because of what happens right after LC1: the boss comes back, does dualspell, then immediately does a raidwide. since it's targetable right after LC1 ends, it's smart to get your GCDs done before LC1 ends and not after. gotta maintain that uptime!
 
 # limit cut 2
 i'm gonna be real: i have no idea how this mechanic is supposed to work. i understand how the numbers go away while the party takes a stack that scales with proximity damage. however, i feel like in PF, *some* of the party stack always dies. i don't know if it's because the proximity isn't big enough or if there's not enough mit. something always goes wrong. as a result, i've noticed that i have to save pulls in a specific way.
 
-![[LC2-meme.png]]
+<p align="center">
+  <img src="https://sillymillie.com/images/LC2-meme.png" /> 
+</p>
 
 ## healer LB3 strat ("plan A")
 the only *guaranteed* way to keep a failed LC2 pull going with LB3 is to do it before the dualspell goes off and not after. if you wait until after dualspell, you run the risk of a healer dying to them getting double targeted by dualspell. i am not a fan of rolling those dice, so i found out a way to make sure it always works. the only downside is that the OT has to flex.
