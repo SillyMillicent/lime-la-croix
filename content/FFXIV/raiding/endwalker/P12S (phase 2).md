@@ -8,6 +8,7 @@ title: P12S (phase 2)
 - practically every raidwide needs some hearty mitigation. even with BIS, i still die to the UAV 1 raidewide as WHM if there’s no mit.
 - MT can press rampart for the many auto attacks during UAV 1. it will be back up for the many auto attacks during caloric 1.
 - MT also takes lots of damage during pangenesis. make sure to keep them alive!
+- during pangenesis, it's helpful to wait an extra second to ensure you combine with your tower partner.
 - you are free to move and pre-position in classical 2 the moment the purple tethers attach to you. take advantage of this.
 - if you have to use healer LB3 to save the pull during UAV 2, make sure to confirm whether or not someone ran off the edge before doing it. if someone ran off and you use LB3, they will not be raised since their bodies are gone.
 ---
