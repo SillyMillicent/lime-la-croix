@@ -22,3 +22,12 @@ example of a spread dying and the pull continuing as normal:
 **it is imperative that you stay as close to the wall as possible when baiting dashes.** the damage scales with proximity, and if you’re off by a few pixels, you will likely die unless you’re a tank.
 
 if you’re a healer or tank, try to pay attention to players 6 and 8. they take the final jumps from the boss, and the mitigations/shields typically used at the start of the mechanic usually run out by the time they take the jumps. the same applies to 5 and 7, just not as badly from my experience.
+
+# healer LB3 after superchain 2A (sac strat)
+people tend to die a lot during SC2A. for a group that's progging and just trying to practice SC2B, it's worth it to learn how everyone can sac so that the healer can live and use LB3. this is not required since the healer can just time it so that the LB3 goes off right as they die to the party in/out mech after SC2A.
+
+all you have to do is position yourself so that at least one person is in the center of the boss's hitbox and that at least one person is farther away from the boss than the healer. here's a diagram showing the spacing [as well as a video showing a real example.](https://www.youtube.com/watch?v=2Jii6OY28u0)
+
+![[after-SC2A-safety-strat.png]]
+
+make sure you give yourself healing/mitigation/shields so that you survive the raidwide after. i personally don't use it until after the raidwide goes off to ensure that nobody dies to it due to a lack of mitigation.
