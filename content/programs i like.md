@@ -34,3 +34,10 @@ i struggled to write every day in google docs because of how much of a chore it 
 - **price:** free, paid options
 
 this one is rather simple. i really like fasting—i often switch between 16:8 and 20:4—in order to keep myself from midnight snacking. i discovered that while i'm not a visual learner, i do highly benefit from being able to see things laid out before my eyes. diarium's calendar view is a great example of this. zero provides a nice timer for me to look at, and it activates the part of my brain that likes keeping streaks going. i have no idea what the paid options even do. there's a whole lot more to the app, though i haven't even looked at any of it. i just like my timers.
+
+# [voicemeeter potato](https://vb-audio.com/Voicemeeter/potato.htm)
+- **what it's for:** virtually mixing audio
+- **platforms:** windows
+- **price:** free (donationware)
+
+be warned—this program has a learning curve to it if you've never used any physical or virtual audio mixers. i enjoy what this software enables me to do. i primarily use it so that i can have 3 separate audio tracks when i save highlights with OBS: game audio, my microphone, and anyone talking to me over discord. having clips saved this way means that i can go in and fine tune the audio levels in editing so that everything sounds perfect. i've also streamed once or twice while in a discord call with everything except for the game muted.
