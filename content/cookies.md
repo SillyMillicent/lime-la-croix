@@ -24,6 +24,11 @@ unlisted: true
 7. bake cookies for 10-11 minutes or until cookies have spread and the tops begin to crack. remove from oven and allow the cookies to rest for 5 minutes before transferring them to a cooling rack.
 
 # tips for shipping
+- allow to cool before packaging
+- wrap pairs of cookies back-to-back with plastic wrap
+- put the heavier cookies at the bottom
+- don't over- or under-package the box
+- put them in a ziploc bag? tupperware? make sure it's airtight.
 - put the cookies in the fridge before shipping to let icing settle
 - when icing is applied, make sure the cookie is completely cooled beforehand
 - use toothpicks to help with designs
