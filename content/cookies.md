@@ -14,6 +14,11 @@ unlisted: true
 - 1 teaspoon vanilla extract
 - extra sugar, for rolling
 
+# shopping list
+- parchment paper
+- packing tape
+- packing paper? use old shit? idk
+
 # instructions
 1. preheat oven to 350˚F, and line 2 cookie sheets with parchment paper.
 2. in a medium bowl, whisk together the flour, baking powder, baking soda and salt. set aside.
