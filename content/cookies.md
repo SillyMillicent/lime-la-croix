@@ -18,6 +18,8 @@ unlisted: true
 - parchment paper
 - packing tape
 - packing paper? use old shit? idk
+- red food coloring
+- valentine's card
 
 # instructions
 1. preheat oven to 350˚F, and line 2 cookie sheets with parchment paper.
