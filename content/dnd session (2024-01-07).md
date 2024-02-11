@@ -70,6 +70,6 @@ Neither of Leah's parents were in town, unfortunately. Luckily, most of the impo
 
 ## Recap (Last Session)
 >[!example] What happened?
->After arriving in Bongrain, we decided it would be best to gather information. That decision led us to the temple of Arawn, god of life and death. There, we met an older human named Lorac and a young halfling named Garrett. Through them, we learned of strange rituals happening in the forest that caused misfortune to those that happened to see them.
+>Our journey through the forest continued. Right away, we stumbled upon four mercenaries trying to surround and kill a unicorn, a creature known for its divinity and for being a symbol of good. After dispatching the mercenaries, we learned the creature's name: Stellan. He spoke telepathically in an odd language, and he sternly and quickly told the fey creature to give Leah her name back.
 >
->We were told to look for a hunter named Ander, as he'd have more information. After locating him, he agreed to lead us to the spot in the forest where he saw this strange ritual taking place. In the forest, we fought a large number of goblins. Before we got overwhelmed, a group of elves arrived to help us out. They revealed themselves to be Leah's family, and they took us to their home in the treetops.
+>We finally made it to Bongrain, a city known for its culinarians. We restocked on basic supplies and then stopped to think about what to do next.
