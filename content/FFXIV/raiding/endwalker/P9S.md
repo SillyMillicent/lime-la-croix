@@ -20,6 +20,8 @@ i'm gonna be real: i have no idea how this mechanic is supposed to work. i under
 </p>
 
 ## healer LB3 strat ("plan A")
+[here's a video of me performing plan A!](https://www.twitch.tv/videos/1848244585?t=0h7m26s) the explanation is as follows:
+
 the only *guaranteed* way to keep a failed LC2 pull going with LB3 is to do it before the dualspell goes off and not after. if you wait until after dualspell, you run the risk of a healer dying to them getting double targeted by dualspell. i am not a fan of rolling those dice, so i found out a way to make sure it always works. the only downside is that the OT has to flex.
 
 the proper way to do it is as follows:
