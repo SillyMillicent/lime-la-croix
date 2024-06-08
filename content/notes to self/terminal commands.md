@@ -34,3 +34,9 @@ download a playlist at 1080p and number the files sequentially (do not include t
 ```
 yt-dlp <playlist link> -o "%(playlist_index)s-%(title)s.%(ext)s" -S "res:1080"
 ```
+
+# docker
+(with docker desktop open) run a local server instance of EEEG:
+```
+docker run -p 8080:80 eeeg:latest
+```
